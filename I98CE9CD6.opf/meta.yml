@@ -1,0 +1,32 @@
+id: I98CE9CD6
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:14:09.183247'
+last_modified: '2022-06-05T20:14:09.183252'
+parser: null
+source_metadata:
+  title: Thirteenth Dalai Lama Series
+  language: pt
+  description: 'Texts by the Great Thirteenth Dalai Lama Tupten Gyatso (thub bstan
+    rgya mtsho, 1876–1933):'
+  volume:
+    fCC07:
+      title: 'The Swift Path to Great Bliss: A Sādhana of Amitābha, Buddha of Limitless
+        Light'
+      base_file: fCC07.txt
+      order: 1
+      parent: Sādhanas
+    f1717:
+      title: 'The Tambura of Devotion: A Prayer for the Swift Appearance of the Supreme
+        Tulku of the All-Seeing Conqueror and Cardinal Guardian of the Land of Snows'
+      base_file: f1717.txt
+      order: 2
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
